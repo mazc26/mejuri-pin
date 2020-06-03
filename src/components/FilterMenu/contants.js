@@ -1,0 +1,1 @@
+export default ['All', 'Bracelets', 'Necklaces', 'Earrings', 'Engagement', 'Pendants', 'Rings', 'Stacking sets'];

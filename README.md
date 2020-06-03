@@ -1,3 +1,17 @@
+# Steps to reproduce
+
+1. Clone the repo to your documents.
+2. Go to the root of the project you cloned.
+3. Execute yarn install.
+4. Execute yarn start.
+5. Enjoy.
+
+
+TODOS:
+
+* Styled components.
+* Testing.
+
 # Mejuri PIN
 
 First of all, thanks for your time and take this challenge, we really appreciate it!
